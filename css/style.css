@@ -43,3 +43,30 @@ ol{
     margin-left: 40px;
 }
 /* Header end  */
+
+
+/* Section Start  */
+.main_section{
+background-image: url(../imgs/main\ banner.png);
+background-color: cadetblue;
+padding: 10.4861% 54.027% 16.1805% 9.027% ; 
+/* ამის %-ში ჩაწერას ააქვს აზრი რესპონსივისთვის? თუ ისევ პიქსელებში ჩავწერო? */
+
+}
+
+h1{
+    font-weight: 400; 
+    /* fonts.google.com-იდან თუ ეგრევე 400-იან weight-ფონტი მომაქვს აქ უნდა მაინც დაწერა? */
+    font-size: 50px;
+    line-height: 74.75px;
+    color: #FFFFFF;
+    font-family: 'Pridi', serif;
+}
+.main_section_P{
+    margin-top: 21px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23.92px;
+    color: #FFFFFF;
+    font-family: 'Pridi', serif;
+}
