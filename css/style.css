@@ -35,7 +35,7 @@ ol{
     line-height: 18.91px;
     font-weight: 400;
     color: #000000;
-    font-family: 'Pridi', serif;
+    font-family: 'ABeeZee', sans-serif;
 }
 .fa-circle-user{
     color: black;
@@ -45,7 +45,7 @@ ol{
 /* Header end  */
 
 
-/* Section Start  */
+/* Section 1 Start  */
 .main_section{
 background-image: url(../imgs/main\ banner.png);
 background-color: cadetblue;
@@ -60,7 +60,7 @@ h1{
     font-size: 50px;
     line-height: 74.75px;
     color: #FFFFFF;
-    font-family: 'Pridi', serif;
+    font-family: 'Kanit', sans-serif;
 }
 .main_section_P{
     margin-top: 21px;
@@ -68,5 +68,164 @@ h1{
     font-size: 16px;
     line-height: 23.92px;
     color: #FFFFFF;
+    font-family: 'Kanit', sans-serif;
+}
+/* Section 1 end  */
+
+/* Section 2 start  */
+
+.section2_perent_div{
+    padding: 33px 130px 52px 130px;
+}
+
+.DISCOVERY{
+    padding-bottom: 34px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44.85px;
+    color: #000000;
+    font-family: 'Kanit', sans-serif;
+}
+
+.Section_2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_2_div{
+    border: 1px solid black;
+    height: 380px;
+    width: 380px; 
+}
+.card_div{
+    padding: 18px 20px 4px 21px ;
+}
+.Lorem_ipsum_dolor{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35.88px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.Lorem_ipsum_dolor_P{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23.92px;
+    font-family: 'Kanit', sans-serif;
+}
+
+.days{
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23.92px;
+    font-family: 'Kanit', sans-serif;
+}
+/* Section 2 end  */
+
+/* Section 3 Start  */
+.h3_div{
+padding-left: 131px;
+}
+
+.PHOTOGRAPH{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44.85px;
+    font-family: 'Kanit', sans-serif;
+
+}
+
+.Section3{
+padding: 34px 131px 86px 131px;
+display: flex;
+
+}
+
+.big_cards{
+    width: 780px;
+    height: 886px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.Section3_bigcard_1{
+    background-image: url(../imgs/clif.png);
+    padding: 232px 36px 25px 36px;
+    max-width: 100%;
+}
+.Section3_bigcard_2{
+    background-image: url(../imgs/forest.png);
+    padding: 232px 36px 25px 36px;
+   max-width: 100%;
+}
+
+.HAPPENING_NOW{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44.85px;
+    color: #FFFFFF;
+    font-family: 'Kanit', sans-serif;
+}
+
+.HAPPENING_NOW_P{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23.92px;
+    color: #FFFFFF;
+    font-family: 'Kanit', sans-serif;
+}
+
+.section_3_maindiv{
+    max-width: 380px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left: 20px;
+
+}
+
+.section3_2nd_div{
+border: 1px solid #000000;
+width: 380px;
+height: 280px;
+}
+.section3_h3{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 35.88px;
+    font-family: 'Kanit', sans-serif;
+}
+.section3_P{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23.92px;
+    font-family: 'Kanit', sans-serif;
+}
+.forpadding{
+    padding-left: 21px;
+}
+
+
+/* Section 3 End  */
+
+
+footer{
+    background-color: #000000;
+    max-width: 100%;
+    display: flex;
+    padding: 31px 632px 31px 631px;
+    align-items: center;
+    
+}
+.footer_P{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27.9px;
     font-family: 'Pridi', serif;
+    color: #FFFFFF;
+    margin-left: 14px;
 }
